@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://github.com/Coder-IsiahJones/Product-Preview-Card-Component)
-- [Live version]()
+- [Live version](https://coder-isiahjones.github.io/Product-Preview-Card-Component)
 
 ## My process
 
